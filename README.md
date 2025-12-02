@@ -28,16 +28,6 @@ I'm Priyadharshini K, an ECE Undergraduate passionate about technology, innovati
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kp-tech-19 /kp-tech-19 /output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kp-tech-19 /kp-tech-19 /output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/kp-tech-19 /kp-tech-19 /output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
-###
-
 <img src="https://raw.githubusercontent.com/kp-tech-19 /kp-tech-19 /output/snake.svg" alt="Snake animation" />
 
 ###
