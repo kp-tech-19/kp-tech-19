@@ -40,6 +40,11 @@
 
 ---
 
+# 🐍 GitHub Snake Animation  
+![snake gif](https://github.com/kp-tech-19/kp-tech-19/blob/output/github-contribution-grid-snake.gif)
+
+---
+
 <h1 align="center">Hey there 👋</h1>
 
 ### 👩‍💻 About Me  
@@ -53,7 +58,7 @@ I'm **Priyadharshini**, an **ECE Undergraduate** passionate about technology, in
 
 ---
 
-### 🛠 **Languages & Tools**
+### 🛠 Languages & Tools
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" />
@@ -96,4 +101,3 @@ I'm **Priyadharshini**, an **ECE Undergraduate** passionate about technology, in
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=linux" height="40" />
 </div>
-
