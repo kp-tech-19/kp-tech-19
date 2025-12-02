@@ -59,15 +59,7 @@ I'm **Priyadharshini**, an **ECE Undergraduate** passionate about technology, in
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=arduino" height="40" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/verilog/verilog-original.svg" height="40" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" />
-</div>
-
-### 🔥 My Stats
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=kp-tech-19&theme=dark&hide_border=false&border_radius=5" height="220" />
 </div>
 
 <h2 align="left">I code with</h2>
