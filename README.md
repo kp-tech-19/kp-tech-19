@@ -19,7 +19,7 @@ I'm **Priyadharshini**, an **ECE Undergraduate** passionate about technology, in
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=c,c++,python,java,verilog,matlab,raspberrypi,arduino" height="60" />
+  <img src="https://skillicons.dev/icons?i=c,python,java,matlab,raspberrypi,arduino" height="60" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vscode,git,github,linux" height="60" />
   <img width="12" />  
@@ -38,16 +38,6 @@ I'm **Priyadharshini**, an **ECE Undergraduate** passionate about technology, in
   <img src="https://streak-stats.demolab.com?user=kp-tech-19&theme=dracula&hide_border=false&border_radius=5" height="150" />
   <img src="https://github-profile-trophy.vercel.app/?username=kp-tech-19&theme=dracula&margin-w=8&margin-h=8" height="150" />
 </div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-</picture>
-
-###
 
 ### 🛠 Languages & Tools
 
