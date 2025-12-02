@@ -32,12 +32,17 @@ I'm **Priyadharshini**, an **ECE Undergraduate** passionate about technology, in
   <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=000000&logoColor=white&style=for-the-badge" height="25" />
 </div>
 
+
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=kp-tech-19&theme=dracula&hide_border=false&border_radius=5" height="150" />
-  <img src="https://github-profile-trophy.vercel.app/?username=kp-tech-19&theme=dracula&margin-w=8&margin-h=8" height="150" />
+  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=maurodesouza&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
+
+###
+
+
 
 ### 🛠 Languages & Tools
 
@@ -77,12 +82,5 @@ I'm **Priyadharshini**, an **ECE Undergraduate** passionate about technology, in
   <img src="https://skillicons.dev/icons?i=git" height="40" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=linux" height="40" />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=maurodesouza&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
