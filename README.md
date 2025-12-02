@@ -37,7 +37,7 @@ I'm **Priyadharshini**, an **ECE Undergraduate** passionate about technology, in
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=kp-tech-19&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" />
-  <img src="https://github-profile-trophy.vercel.app?username=kp-tech-19&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=kp-tech-19&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150"  />
 </div>
 
 ###
@@ -62,7 +62,7 @@ I'm **Priyadharshini**, an **ECE Undergraduate** passionate about technology, in
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" />
 </div>
 
-<h2 align="left">I code with</h2>
+### 🛠 I code with
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" />
