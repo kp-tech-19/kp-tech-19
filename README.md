@@ -1,13 +1,28 @@
-<h1 align="center">Hey 👋 What's Up?</h1>
+<h1 align="center">Hey there 👋</h1>
+
+###
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
+</div>
+
+###
+
+### 👩‍💻 About Me  
+I'm **Priyadharshini**, an **ECE Undergraduate** passionate about technology, innovation, and real-world engineering.
+
+- 🔭 I’m currently working on strengthening my skills in **VLSI, embedded systems, and MATLAB**  
+- 👯 I’m looking to collaborate on **innovative ECE or software-based projects**  
+- 🤝 I’m looking for help with **advanced design and development techniques**  
+- 🌱 I’m currently learning **system design, digital electronics, and problem-solving strategies**  
+- 💬 Ask me about **C programming, MATLAB, VLSI basics, or project development**
 
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,matlab,raspberrypi,arduino" height="60" />
+  <img src="https://skillicons.dev/icons?i=c,c++,python,java,verilog,matlab,raspberrypi,arduino" height="60" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vscode,git,github,linux" height="60" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=verilog" height="60" />
+  <img width="12" />  
 </div>
 
 ###
@@ -33,31 +48,6 @@
 </picture>
 
 ###
-
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
-</div>
-
----
-
-# 🐍 GitHub Snake Animation  
-![snake gif](https://github.com/kp-tech-19/kp-tech-19/blob/output/github-contribution-grid-snake.gif)
-
----
-
-<h1 align="center">Hey there 👋</h1>
-
-### 👩‍💻 About Me  
-I'm **Priyadharshini**, an **ECE Undergraduate** passionate about technology, innovation, and real-world engineering.
-
-- 🔭 I’m currently working on strengthening my skills in **VLSI, embedded systems, and MATLAB**  
-- 👯 I’m looking to collaborate on **innovative ECE or software-based projects**  
-- 🤝 I’m looking for help with **advanced design and development techniques**  
-- 🌱 I’m currently learning **system design, digital electronics, and problem-solving strategies**  
-- 💬 Ask me about **C programming, MATLAB, VLSI basics, or project development**
-
----
-
 ### 🛠 Languages & Tools
 
 <div align="left">
@@ -78,15 +68,11 @@ I'm **Priyadharshini**, an **ECE Undergraduate** passionate about technology, in
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" />
 </div>
 
----
-
 ### 🔥 My Stats
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=kp-tech-19&theme=dark&hide_border=false&border_radius=5" height="220" />
 </div>
-
----
 
 <h2 align="left">I code with</h2>
 
@@ -101,3 +87,20 @@ I'm **Priyadharshini**, an **ECE Undergraduate** passionate about technology, in
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=linux" height="40" />
 </div>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=maurodesouza&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+</picture>
+
+###
