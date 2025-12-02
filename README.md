@@ -12,88 +12,33 @@
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
 </div>
 
-###
-
-### 👩‍💻 About Me  
-I'm **Priyadharshini**, an **ECE Undergraduate** passionate about technology, innovation, and real-world engineering.
-
-- 🔭 I’m currently working on strengthening my skills in **VLSI, embedded systems, and MATLAB**  
-- 👯 I’m looking to collaborate on **innovative ECE or software-based projects**  
-- 🤝 I’m looking for help with **advanced design and development techniques**  
-- 🌱 I’m currently learning **system design, digital electronics, and problem-solving strategies**  
-- 💬 Ask me about **C programming, MATLAB, VLSI basics, or project development**
-
-###
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=c,python,java,matlab,raspberrypi,arduino" height="60" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,linux" height="60" />
-  <img width="12" />  
-</div>
-
-###
-
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="25" />
-  <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=000000&logoColor=white&style=for-the-badge" height="25" />
-</div>
+# 💫 About Me:
+I'm Priyadharshini K, an ECE Undergraduate passionate about technology, innovation, and real-world engineering.
 
 
-### 📊 GitHub Stats & Achievements
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/priyadharshini-k-34076a304) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:priyadharshinik1901@gmail.com) 
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=kp-tech-19&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" />
-  <img src="https://github-profile-trophy.vercel.app?username=kp-tech-19&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150"  />
-</div>
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=kp-tech-19&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=kp-tech-19&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kp-tech-19&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-###
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=kp-tech-19&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=kp-tech-19&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
-### 🛠 Languages & Tools
+---
+[![](https://visitcount.itsvg.in/api?id=kp-tech-19&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=python" height="40" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=matlab" height="40" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=raspberrypi" height="40" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=arduino" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" />
-</div>
-
-### 🛠 I code with
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=linux" height="40" />
-</div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kp-tech-19/kp-tech-19/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kp-tech-19/kp-tech-19/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/kp-tech-19/kp-tech-19/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
-<img src="https://raw.githubusercontent.com/kp-tech-19/kp-tech-19/output/snake.svg" alt="Snake animation" />
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ###
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer" /> 
