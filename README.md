@@ -92,4 +92,8 @@ I'm **Priyadharshini**, an **ECE Undergraduate** passionate about technology, in
 </picture>
 
 ###
+
+<img src="https://raw.githubusercontent.com/kp-tech-19 /kp-tech-19 /output/snake.svg" alt="Snake animation" />
+
+###
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer" />
