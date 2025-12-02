@@ -27,10 +27,11 @@ I'm Priyadharshini K, an ECE Undergraduate passionate about technology, innovati
 ![](https://github-profile-trophy.vercel.app/?username=kp-tech-19&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ###
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kp-tech-19 /kp-tech-19 /output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kp-tech-19 /kp-tech-19 /output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/kp-tech-19 /kp-tech-19 /output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kp-tech-19/kp-tech-19/main/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kp-tech-19/kp-tech-19/main/output/pacman-contribution-graph.svg">
+  <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/kp-tech-19/kp-tech-19/main/output/pacman-contribution-graph.svg">
 </picture>
 
 ###
