@@ -1,5 +1,5 @@
 ###
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FF8000&height=120&section=header"/>
+
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=radical"  />
 </div>
@@ -92,3 +92,4 @@ I'm **Priyadharshini**, an **ECE Undergraduate** passionate about technology, in
 </picture>
 
 ###
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer" />
