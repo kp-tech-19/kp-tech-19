@@ -25,7 +25,7 @@ I'm Priyadharshini K, an ECE Undergraduate passionate about technology, innovati
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kp-tech-19&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=kp-tech-19&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-###
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kp-tech-19 /kp-tech-19 /output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kp-tech-19 /kp-tech-19 /output/pacman-contribution-graph.svg">
