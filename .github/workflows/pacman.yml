@@ -23,8 +23,6 @@ jobs:
 
       - name: Generate Pac-Man SVGs
         run: |
-          # Light theme
-          pacman-contribution-graph --platform github --gameTheme github --username kp-tech-19 > dist/pacman-contribution-graph.svg
           
           # Dark theme
           pacman-contribution-graph --platform github --gameTheme github-dark --username kp-tech-19 > dist/pacman-contribution-graph-dark.svg
