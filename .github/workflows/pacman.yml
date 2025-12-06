@@ -12,6 +12,8 @@ jobs:
     steps:
       - name: Checkout repo
         uses: actions/checkout@v3
+        with:
+          fetch-depth: 0   # Needed for pushing
 
       - name: Create output directory
         run: mkdir -p dist
@@ -22,11 +24,12 @@ jobs:
       - name: Generate Pac-Man SVGs
         run: |
           # Light theme
-          pacman-contribution-graph --platform github --gameTheme github --username Guru-1205 > dist/pacman-contribution-graph.svg
+          pacman-contribution-graph --platform github --gameTheme github --username kp-tech-19 > dist/pacman-contribution-graph.svg
+          
           # Dark theme
-          pacman-contribution-graph --platform github --gameTheme github-dark --username Guru-1205 > dist/pacman-contribution-graph-dark.svg
+          pacman-contribution-graph --platform github --gameTheme github-dark --username kp-tech-19 > dist/pacman-contribution-graph-dark.svg
 
-      - name: List dist folder for debugging
+      - name: List dist folder
         run: ls -la dist
 
       - name: Push to output branch
